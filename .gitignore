@@ -9,6 +9,7 @@ packages/subgraph/subgraph.yaml
 packages/subgraph/generated
 packages/subgraph/abis/*
 packages/hardhat/*.txt
+packages/react-app/src/constants.js
 **/aws.json
 
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
